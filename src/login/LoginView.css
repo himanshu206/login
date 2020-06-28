@@ -1,0 +1,34 @@
+.login-view {
+    display: flex;
+    width: 25rem;
+    height: 35rem;
+    border-radius: 0.5rem;
+    background: whitesmoke;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem;
+    box-sizing: border-box;
+    box-shadow: 0 0 0.3rem lightgrey;
+}
+
+.login-view__btn {
+    background-color: dodgerblue;
+    outline: none;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    color: white;
+    font-weight: 600;
+    border-radius: 0.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.login-view__btn-wrapper {
+    display: flex;
+}
+
+.disabled {
+    opacity: 0.5;
+    pointer-events: none;
+    cursor: not-allowed;
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "username": "hgharrier@gmail.com",
+    "password": "password",
+    "name": "Himanshu Gupta"
+  },
+  {
+    "id": 2,
+    "username": "xyz@gmail.com",
+    "password": "test1234",
+    "name": "Mohit Sharma"
+  },
+  {
+    "id": 3,
+    "username": "abc@gmail.com",
+    "password": "abc12323",
+    "name": "Varun Das"
+  },
+  {
+    "id": 2,
+    "username": "sachin@gmail.com",
+    "password": "sachin1234",
+    "name": "Sachin Sinha"
+  },
+  {
+    "id": 2,
+    "username": "sourav@gmail.com",
+    "password": "sourav1234",
+    "name": "Sourav Sharma"
+  }
+]
