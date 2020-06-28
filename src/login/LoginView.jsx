@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import ValidationUtils from "./common/utils";
+import ValidationUtils from "../common/utils";
 
 import Error from "../common/Error";
 import Success from "../common/Success";
